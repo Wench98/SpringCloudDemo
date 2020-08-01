@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad35d5e3-899b-47f0-bc17-7e72d2feb90c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1fUPwvSgNulIrjJLPFBNmZmfoxB" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad35d5e3-899b-47f0-bc17-7e72d2feb90c" name="Default Changelist" comment="" />
+      <created>1596269940402</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596269940402</updated>
+      <workItem from="1596269943617" duration="274000" />
+      <workItem from="1596270247874" duration="1889000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="117" key="#Notifications" timestamp="1596272223500">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="117" key="#Notifications/0.0.1440.900@0.0.1440.900" timestamp="1596272223500" />
+    <state x="563" y="358" width="314" height="257" key="Github.ShareDialog" timestamp="1596272291183">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="563" y="358" width="314" height="257" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1596272291183" />
+    <state width="1400" height="223" key="GridCell.Tab.0.bottom" timestamp="1596272053628">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1400" height="223" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1596272053628" />
+    <state width="1400" height="223" key="GridCell.Tab.0.bottom/40.23.1400.877@40.23.1400.877" timestamp="1596270218016" />
+    <state width="1400" height="223" key="GridCell.Tab.0.center" timestamp="1596272053627">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1400" height="223" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1596272053627" />
+    <state width="1400" height="223" key="GridCell.Tab.0.center/40.23.1400.877@40.23.1400.877" timestamp="1596270218015" />
+    <state width="1400" height="223" key="GridCell.Tab.0.left" timestamp="1596272053626">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1400" height="223" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1596272053626" />
+    <state width="1400" height="223" key="GridCell.Tab.0.left/40.23.1400.877@40.23.1400.877" timestamp="1596270218014" />
+    <state width="1400" height="223" key="GridCell.Tab.0.right" timestamp="1596272053627">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1400" height="223" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1596272053627" />
+    <state width="1400" height="223" key="GridCell.Tab.0.right/40.23.1400.877@40.23.1400.877" timestamp="1596270218016" />
+    <state x="202" y="89" width="1051" height="722" key="SettingsEditor" timestamp="1596272429748">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="202" y="89" width="1051" height="722" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1596272429748" />
+    <state x="329" y="296" key="com.intellij.ide.util.TipDialog" timestamp="1596270248048">
+      <screen x="40" y="23" width="1400" height="877" />
+    </state>
+    <state x="329" y="296" key="com.intellij.ide.util.TipDialog/40.23.1400.877@40.23.1400.877" timestamp="1596270248048" />
+  </component>
+</project>
