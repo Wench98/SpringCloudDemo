@@ -29,6 +29,12 @@
     3、写YAML
     4、主启动
     5、业务类
+    
+### 工程重构
+
+    将entities包下的通用实体体集中到一个模块中以方便调用
+    构建模块——cloud-api-commons
+    将entities包添加成功后，使用maven，先clean，后install
 
     
     
