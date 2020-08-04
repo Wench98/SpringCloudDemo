@@ -35,6 +35,10 @@
     将entities包下的通用实体体集中到一个模块中以方便调用
     构建模块——cloud-api-commons
     将entities包添加成功后，使用maven，先clean，后install
+    
+### EurekaServer服务端安装
+
+    构建模块——cloud-eureka-server7001
 
     
     
