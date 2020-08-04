@@ -1,7 +1,7 @@
 
 ## SpringCloud框架
     
-    一揽子开发Demo
+    一揽子微服务开发Demo
 
 ### 父工程
     
@@ -46,7 +46,13 @@
         POM文件中添加 eureka-client 依赖坐标
         YAML文件中添加Eureka配置信息
         主启动类中添加注解 @EnableEurekaClient
+        
+### 订单微服务80入驻EurekaServer
 
+    cloud-consumer-order80微服务模块下
+        POM文件中添加 eureka-client 依赖坐标
+        YAML文件中添加Eureka配置信息
+        主启动类中添加注解 @EnableEurekaClient
     
     
     
