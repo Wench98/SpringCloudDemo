@@ -39,6 +39,13 @@
 ### EurekaServer服务端安装
 
     构建模块——cloud-eureka-server7001
+    
+### 支付微服务8001入驻EurekaServer
+
+    cloud-provider-payment8001微服务模块下
+        POM文件中添加 eureka-client 依赖坐标
+        YAML文件中添加Eureka配置信息
+        主启动类中添加注解 @EnableEurekaClient
 
     
     
