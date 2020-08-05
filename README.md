@@ -62,6 +62,11 @@
         localhost   eureka7002.com
     模块名为 cloud-eureka-server7002
     
+### 订单、支付俩微服务注册进Eureka集群
+
+    修改cloud-provider-payment8001模块的YAML文件
+        cloud-consumer-order80模块的YAML文件
+    
     
     
     
