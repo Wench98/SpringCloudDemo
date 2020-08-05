@@ -53,6 +53,14 @@
         POM文件中添加 eureka-client 依赖坐标
         YAML文件中添加Eureka配置信息
         主启动类中添加注解 @EnableEurekaClient
+        
+### Eureka集群环境构建
+
+    创建与7001类似的一个Eureka应用模块
+    修改Mac的hosts文件：在末行添加域名指定语句
+        localhost   eureka7001.com
+        localhost   eureka7002.com
+    模块名为 cloud-eureka-server7002
     
     
     
