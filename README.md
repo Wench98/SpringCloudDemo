@@ -66,6 +66,12 @@
 
     修改cloud-provider-payment8001模块的YAML文件
         cloud-consumer-order80模块的YAML文件
+        
+### 支付微服务集群构建
+
+    新建支付微服务模块 cloud-provider-payment8002
+    
+    
     
     
     
