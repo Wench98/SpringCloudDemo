@@ -77,6 +77,10 @@
     prefer-ip-address: true
     显示微服务名称及域名IP
     
+### 服务发现 Discovery
+
+    启用 discoveryClient
+    
     
     
     
