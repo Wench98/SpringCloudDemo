@@ -71,6 +71,12 @@
 
     新建支付微服务模块 cloud-provider-payment8002
     
+### actuator微服务信息完善
+
+    instance-id: payment8001
+    prefer-ip-address: true
+    显示微服务名称及域名IP
+    
     
     
     
